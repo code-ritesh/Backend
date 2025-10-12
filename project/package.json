@@ -1,0 +1,22 @@
+{
+  "name": "backend-learning",
+  "version": "1.0.0",
+  "description": "a folder to learn backend js",
+  "main": "index.js",
+
+  "type" : "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "backend"
+  ],
+  "author": "ritesh rana",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "expresss": "^0.0.0",
+    "mongoose": "^8.19.1"
+  }
+}
