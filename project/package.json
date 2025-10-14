@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "a folder to learn backend js",
   "main": "index.js",
-
-  "type" : "module",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,6 +14,9 @@
   "author": "ritesh rana",
   "license": "ISC",
   "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cookies-parser": "^1.2.0",
+    "cors": "^2.8.5",
     "dotenv": "^17.2.3",
     "expresss": "^0.0.0",
     "mongoose": "^8.19.1"
